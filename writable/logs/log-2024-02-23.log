@@ -1,0 +1,30 @@
+CRITICAL - 2024-02-23 03:28:40 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "user/add.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('user/add.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('user/add', [], true)
+ 3 APPPATH\Controllers\UserController.php(13): view('user/add')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\UserController->addUser()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\projectfolder\\public\\index.php')
+CRITICAL - 2024-02-23 03:29:20 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "user/add.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('user/add.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('user/add', [], true)
+ 3 APPPATH\Controllers\UserController.php(13): view('user/add')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\UserController->addUser()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\projectfolder\\public\\index.php')
+CRITICAL - 2024-02-23 03:29:49 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "user/add.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('user/add.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('user/add', [], true)
+ 3 APPPATH\Controllers\UserController.php(13): view('user/add')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\UserController->addUser()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\projectfolder\\public\\index.php')
